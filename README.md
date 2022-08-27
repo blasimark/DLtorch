@@ -1,1 +1,1 @@
-# Pytorch implementation of FashionMNIST classification. Further details in FashionMNIST-pytorch.ipynb
+# Pytorch implementation of FashionMNIST classification. Further details in the jupyter notebook
